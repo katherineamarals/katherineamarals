@@ -5,7 +5,7 @@
 <!-- GithubStats -->
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=katherineamarals&show_icons=true&theme=gotham" alt="Katherine Amaral github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katherineamarals&layout=compact&theme=gotham" />
+  <img width="41%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katherineamarals&layout=compact&theme=gotham" />
 </div>
 <!-- Dropdown -->
   
